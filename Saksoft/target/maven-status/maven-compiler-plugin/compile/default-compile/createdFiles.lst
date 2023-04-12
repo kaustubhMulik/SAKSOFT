@@ -1,0 +1,6 @@
+com\crud\Saksoft\SaksoftApplication.class
+com\crud\Saksoft\repository\UserRepository.class
+com\crud\Saksoft\controller\UserController.class
+com\crud\Saksoft\service\UserService.class
+com\crud\Saksoft\entity\User.class
+com\crud\Saksoft\serviceimpl\UserServiceImpl.class
